@@ -1,0 +1,29 @@
+h1{text-align: center;margin: 40px auto 25px;}
+#raw-data-head{
+    tr{
+        td{
+            font-weight: 600;
+            white-space: nowrap;
+            &::first-letter{
+                text-transform: uppercase;
+            }
+        }
+    }
+}
+#raw-data li{
+    .list-badge{
+        margin: 5px 5px 0 0;
+        float: left;
+    }
+    p{
+        margin: 0;
+        float: left;
+        width: 85%
+    }
+    .btn-detail{
+        float: right;
+    }
+    .table{
+        margin-top: 30px;
+    }
+}

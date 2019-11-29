@@ -1,0 +1,2062 @@
+[
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from MBT casts from the GRESHAM from Ocean Weather Station N (OWS-N) in the North Pacific Ocean from 07 February 1967 to 28 February 1967 (NCEI Accession 6700065)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Bathythermograph data were collected from the GRESHAM within a 1-mile radius of Ocean Weather Station N (3000N 14000W) and in transit. Data were collected by the United States Coast Guard from 07 Februay 1967 to 28 February 1967. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6700065",
+    "modified": "2010-12-17",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -140.2,
+            29.8
+          ],
+          [
+            -124.5,
+            29.8
+          ],
+          [
+            -124.5,
+            37
+          ],
+          [
+            -140.2,
+            37
+          ],
+          [
+            -140.2,
+            29.8
+          ]
+        ]
+      ]
+    },
+    "temporal": "1967-02-07T00:00:00/1967-02-28T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profile and other data collected using bottle and CTD casts from the ELLEN B. SCRIPPS and other platforms from the Coastal Waters of California during the California Cooperative Fisheries Investigation (CALCOFI) project, 23 January 1983 to 08 December 1983 (NCEI Accession 8600371)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Oceanographic Station Data, temperature, and other data were collected using CTD and bottle casts from ELLEN B. SCRIPPS and other platforms from the Coastal Waters of California from January 23, 1983 to December 8, 1983. Data were submitted by Scripps Institution of Oceanography as part of the California Cooperative Fisheries Investigation (CALCOFI) project. Data were processed by NODC to the NODC standard Oceanographic Station Data (SD2) and the Universal Bathythermograph Output (UBT) formats. Full format descriptions are available at nodc.noaa.gov/.\n\nThe Oceanographic Station Data format contains physical-chemical oceanographic data recorded at discrete depth levels. Most of the observations were made using multi-bottle Nansen casts or other types of water samplers. A small amount (about 5 percent) were obtained using electronic CTD (conductivity-temperature-depth) or STD (salinity- temperature-depth) recorders. The CTD/STD data were reported to NODC at depth levels equivalent to Nansen cast data, however, and have been processed and stored the same as the Nansen data. Cruise information (e.g., ship, country, institution), position, date, and time, and reported for each station. The principal measured parameters and temperature and salinity , but dissolved oxygen, phosphate, total phosphorus, silicate, nitrate, nitrite, and pH may be reported. Meteorological conditions at the time of the cast (e.g., air temperature and pressure, wind, waves) may also be reported, as well as auxiliary data such as water color (Forel-Ule scale), water transparency (Secchi disk depth), and depth to bottom. Values of density (sigma-t) sound velocity, and dynamic depth anomaly are computed from measured parameters. Each station contains the measurements taken at the observed depth levels, but also includes data values interpolated to a set of standard depth levels.",
+    "identifier": "gov.noaa.nodc:8600371",
+    "modified": "2011-03-03",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -124.2,
+            30.4
+          ],
+          [
+            -117.7,
+            30.4
+          ],
+          [
+            -117.7,
+            33.5
+          ],
+          [
+            -124.2,
+            33.5
+          ],
+          [
+            -124.2,
+            30.4
+          ]
+        ]
+      ]
+    },
+    "temporal": "1983-01-23T00:00:00/1983-12-08T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Global Near Real-Time Temperature and Salinity Profile Data from the GTSPP project from 18 October 2002 to 20 November 2002 (NCEI Accession 0000692)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Physical, current, meteorological, and other data were collected from XBT casts, buoys, and other instruments from a World-Wide distribution. Data were collected from 18 October 2002 to 20 November 2002. Data were submitted by the Marine Environmental Data Service (MEDS) in support of the Array for Real-time Geostrophic Oceanography (Argo), the Gulf of Mexico NOAA/NMFS Ship of Opportunity (SOOP), the World Ocean Circulation Experiment (WOCE), and the Global Temperature-Salinity Pilot Project (GTSPP). Physical parameters include profiles of temperature and salinity. Current parameters include current direction and speed. Meteorological data include dry bulb temperature, wind speed, wind direction, relative humidity, and air pressure.",
+    "identifier": "gov.noaa.nodc:0000692",
+    "modified": "2013-03-17",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -95.308,
+            -59.038
+          ],
+          [
+            -109.913,
+            -59.038
+          ],
+          [
+            -109.913,
+            78.031
+          ],
+          [
+            -95.308,
+            78.031
+          ],
+          [
+            -95.308,
+            -59.038
+          ]
+        ]
+      ]
+    },
+    "temporal": "2002-10-18T00:00:00/2002-11-20T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Partial pressure (or fugacity) of carbon dioxide, dissolved inorganic carbon, alkalinity, temperature, salinity and other variables collected from discrete sample, profile and underway - surface observations using Alkalinity titrator, Barometric pressure sensor and other instruments from the ROGER REVELLE in the Indian Ocean, South Pacific Ocean and Tasman Sea from 2007-02-04 to 2007-03-17 (NCEI Accession 0108119)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NODC Accession 0108119 includes biological, chemical, discrete sample, meteorological, physical, profile and underway - surface data collected from ROGER REVELLE in the Indian Ocean, South Pacific Ocean and Tasman Sea from 2007-02-04 to 2007-03-17 and retrieved during cruise 33RR20070204. These data include AIR TEMPERATURE, ALKALINITY, BAROMETRIC PRESSURE, CARBON DIOXIDE - AIR, CARBON DIOXIDE - PARTIAL PRESSURE - DIFFERENCE, CHLOROFLUOROCARBON-11 (CFC-11), CHLOROFLUOROCARBON-113 (CFC-113), CHLOROFLUOROCARBON-12 (CFC-12), Chromophoric Dissolved Organic Matter (CDOM), DELTA CARBON-13, DELTA CARBON-14, DISSOLVED INORGANIC CARBON, DISSOLVED ORGANIC CARBON, DISSOLVED OXYGEN, FLUORESCENCE, HYDROSTATIC PRESSURE, NITRATE, NITRITE, NITROGEN - COMBINED, PHOSPHATE, Partial pressure (or fugacity) of carbon dioxide, Potential temperature (theta), SALINITY, SEA SURFACE TEMPERATURE, SILICATE, Total Dissolved Nitrogen (TDN), WATER TEMPERATURE, WIND DIRECTION and WIND SPEED. The instruments used to collect these data include Alkalinity titrator, Barometric pressure sensor, CTD, Carbon dioxide (CO2) gas analyzer, Coulometer for DIC measurement, Shower head chamber equilibrator for autonomous carbon dioxide (CO2) measurement, bottle and thermosalinographs. These data were collected by Dennis Hansell of Rosenstiel School of Marine and Atmospheric Science, Andrew Dickson of Scripps Institution of Oceanography, Dr. Rik H. Wanninkhof of US DOC; NOAA; OAR; Atlantic Oceanographic and Meteorological Laboratory and Richard A. Feely and Christopher Sabine of US DOC; NOAA; OAR; Pacific Marine Environmental Laboratory as part of the CLIVAR I08S_2007 Underway data and CLIVAR_I08S_2007 data set.\n\nThe International CLIVAR Global Ocean Carbon and Repeat Hydrography Program carries out a systematic and global re-occupation of select WOCE/JGOFS hydrographic sections to quantify changes in storage and transport of heat, fresh water, carbon dioxide (CO2), and related parameters.",
+    "identifier": "gov.noaa.nodc:0108119",
+    "modified": "2013-06-06",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            81.847,
+            -65.811
+          ],
+          [
+            170.804,
+            -65.811
+          ],
+          [
+            170.804,
+            -28.325
+          ],
+          [
+            81.847,
+            -28.325
+          ],
+          [
+            81.847,
+            -65.811
+          ]
+        ]
+      ]
+    },
+    "temporal": "2007-02-04T00:00:00/2007-03-17T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Dissolved inorganic carbon, alkalinity, temperature, salinity and other variables collected from discrete sample and profile observations using CTD, bottle and other instruments from the METEOR in the North Atlantic Ocean and South Atlantic Ocean from 2002-10-13 to 2002-11-16 (NCEI Accession 0113890)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NODC Accession 0113890 includes chemical, discrete sample, physical and profile data collected from METEOR in the North Atlantic Ocean and South Atlantic Ocean from 2002-10-13 to 2002-11-16 and retrieved during cruise CARINA/06MT20021013. These data include ALKALINITY, AMMONIUM, DISSOLVED INORGANIC CARBON, DISSOLVED OXYGEN, HYDROSTATIC PRESSURE, NITRATE, NITRITE, PHOSPHATE, Potential temperature (theta), SALINITY, SILICATE and WATER TEMPERATURE. The instruments used to collect these data include CTD and bottle. These data were collected by Douglas Wallace of Universitat Kiel; Institut Fur Meereskunde; Forschungsbereich Marine Biogeochemie as part of the CARINA/06MT20021013 data set.\n\nThe CARINA (CARbon dioxide IN the Atlantic Ocean) data synthesis project is an international collaborative effort of the EU IP CARBOOCEAN, and U.S. partners. It has produced a merged internally consistent data set of open ocean subsurface measurements for biogeochemical investigations, in particular, studies involving the carbon system. The original focus area was the North Atlantic Ocean, but over time the geographic extent expanded and CARINA now includes data from the entire Atlantic, the Arctic Ocean, and the Southern Ocean.",
+    "identifier": "gov.noaa.nodc:0113890",
+    "modified": "2013-10-23",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.641,
+            0
+          ],
+          [
+            -13.999,
+            0
+          ],
+          [
+            -13.999,
+            11.967
+          ],
+          [
+            -56.641,
+            11.967
+          ],
+          [
+            -56.641,
+            0
+          ]
+        ]
+      ]
+    },
+    "temporal": "2002-10-13T00:00:00/2002-11-16T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "NOAA South Carolina oyster mapping orthoimagery, collection subset 3 of 5, 2003-2005 (NODC Accession 0084750)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "This data set, 3 of 5 archived at the NODC, contains digital orthophotography. The data set presents information that represented conditions for the specified Digital Orthophoto Quarter Quads (DOQQ) regions of interest as specified by PhotoScience Task No. 01012C0053 for coastal areas of South Carolina. The project area was selected specifically to cover those sections of the South Carolina coastal critical zone where oysters had historically been mapped by SC Department of Natural Resources, Marine Division. Additional data from this collection is archived at the NODC under accession numbers 0084621, 0084749, 0084751, 0084752.\n\nThe extent of the DOQQs for the project area ranges from the Hilton Head area in the southern part of South Carolina to the Myrtle Beach area in the northern part of the state. The digital orthophotos in this series have a theoretical ground resolution of 0.25 meter. The digital orthophotos are 4-band in nature (red, green, blue, near infrared) and are delivered as flown in four-band .img file format with associated .png, .jpg, and indexing files. The four-band imagery is delivered in mosaics equaling one eighth of a DOQ. All data were captured during specific imaging windows per contract. The total DOQQ area is approximately 1,527 square miles.",
+    "identifier": "gov.noaa.nodc:0084750",
+    "modified": "2012-02-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81,
+            32.04
+          ],
+          [
+            -78.53,
+            32.04
+          ],
+          [
+            -78.53,
+            33.89
+          ],
+          [
+            -81,
+            33.89
+          ],
+          [
+            -81,
+            32.04
+          ]
+        ]
+      ]
+    },
+    "temporal": "2003-05-01T00:00:00/2005-10-31T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "AT013L01: WHOI cruise 013 leg 01 aboard the R/V Atlantis from 2006-01-17 - 2006-01-31 (NODC Accession 0041585)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Atlantis - Cruise 013 Leg 01.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0041585",
+    "modified": "2011-01-07",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.917783,
+            36.657928
+          ],
+          [
+            -62.420798,
+            36.657928
+          ],
+          [
+            -62.420798,
+            41.524013
+          ],
+          [
+            -70.917783,
+            41.524013
+          ],
+          [
+            -70.917783,
+            36.657928
+          ]
+        ]
+      ]
+    },
+    "temporal": "2006-01-17T00:00:00/2006-01-31T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Wind wave spectra and other data from moored buoy in the East/West Coast of United States, South Pacific Ocean, Gulf of Mexico, and Great Lakes from 01 November 1999 to 30 November 1999 (NODC Accession 0000120)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Wind wave spectra and other data were collected using moored buoy in the East/West Coast of United States, South Pacific Ocean, Gulf of Mexico, and Great Lakes. Data were collected from 01 November 1999 to 30 November 1999.",
+    "identifier": "gov.noaa.nodc:0000120",
+    "modified": "2013-03-13",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -148.172,
+            25.1667
+          ],
+          [
+            -66.5814,
+            25.1667
+          ],
+          [
+            -66.5814,
+            56.2956
+          ],
+          [
+            -148.172,
+            56.2956
+          ],
+          [
+            -148.172,
+            25.1667
+          ]
+        ]
+      ]
+    },
+    "temporal": "1999-11-01T00:00:00/1999-11-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Carbon dioxide, temperature, salinity, and other variables collected via surface underway survey from Volunteer Observing Ship TAISEI MARU in the North Pacific Ocean, Indian Ocean and others from 1993-01-25 to 1998-03-07 (NODC Accession 0080992)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "MRI Database",
+    "identifier": "gov.noaa.nodc:0080992",
+    "modified": "2012-03-07",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.92,
+            -43.81
+          ],
+          [
+            -154.88,
+            -43.81
+          ],
+          [
+            -154.88,
+            35.19
+          ],
+          [
+            106.92,
+            35.19
+          ],
+          [
+            106.92,
+            -43.81
+          ]
+        ]
+      ]
+    },
+    "temporal": "1993-01-25T00:00:00/1998-03-07T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Partial pressure (or fugacity) of carbon dioxide, salinity and other variables collected from Surface underway observations using Barometric pressure sensor, Carbon dioxide (CO2) gas analyzer and other instruments from the Drifting Buoy in the Indian Ocean, South Atlantic Ocean and others from 2001-11-20 to 2007-05-08 (NODC Accession 0117495)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NODC Accession 0117495 includes Surface underway, biological, chemical, meteorological and physical data collected from Drifting Buoy in the Indian Ocean, South Atlantic Ocean, South Pacific Ocean and Tasman Sea from 2001-11-20 to 2007-05-08 and retrieved during cruise CARI20011120. These data include AIR TEMPERATURE, BAROMETRIC PRESSURE, FLUORESCENCE, Partial pressure (or fugacity) of carbon dioxide - water, SALINITY, SEA SURFACE TEMPERATURE and WIND SPEED. The instruments used to collect these data include Barometric pressure sensor, Carbon dioxide (CO2) gas analyzer, Micro-porous membrane equilibrator for discrete carbon dioxide measurement and thermosalinographs. These data were collected by Jacqueline Boutin and L. Merlivat of Universite Pierre et Marie Curie; Institut Pierre Simon Laplace; Laboratoire D'Oceanographie et du Climat: Experimentations et Approches Numeriques as part of the CARIOCA_Drifters data set.",
+    "identifier": "gov.noaa.nodc:0117495",
+    "modified": "2014-04-15",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.335,
+            -56.768
+          ],
+          [
+            -112.714,
+            -56.768
+          ],
+          [
+            -112.714,
+            -35.177
+          ],
+          [
+            -59.335,
+            -35.177
+          ],
+          [
+            -59.335,
+            -56.768
+          ]
+        ]
+      ]
+    },
+    "temporal": "2001-11-20T00:00:00/2007-05-08T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "WATER TEMPERATURE, CONDUCTIVITY, and others collected from WEATHERBIRD II in Gulf of Mexico from 2012-09-22 to 2012-09-28 (NODC Accession 0126756)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "This cruise will collect samples and observations in the DEEP-C benthic array of sites. Leg I will depart St Petersburg 08:00 22 Sept 2012, change personnel in Panama City at 08:00 on 30 Sept. Leg 2 will return to Panama City at 08:00 7 October. Equipment requested from FIO: CTD-Rosette, 12kHz depth profiling display, 50x50cm box-core(back-up). Equipment requested from USF: 8-barrel multicore and core-processing equipment(Hollander), USBL system (Locker), Chest freezer. Equipment provided by FSU: MILET photo platform. Leg 1 will prioritize photo survey of all sites with selected multicore collections at the shallow (< 1000m sites). Leg 2 will prioritize multicore and water sample collections with no scheduled seafloor imaging.\n\nThis dataset contains the data from the CTD casts for this cruise.",
+    "identifier": "gov.noaa.nodc:0126756",
+    "modified": "2015-04-29",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -88.0458,
+            27.6295
+          ],
+          [
+            -83.2968,
+            27.6295
+          ],
+          [
+            -83.2968,
+            29.4782
+          ],
+          [
+            -88.0458,
+            29.4782
+          ],
+          [
+            -88.0458,
+            27.6295
+          ]
+        ]
+      ]
+    },
+    "temporal": "2012-09-22T00:00:00/2012-09-28T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from MBT casts from the USCGC KLAMATH at Ocean Weather Station N (OWS-N) in the North Pacific Ocean from 11 May 1960 to 07 June 1960 (NODC Accession 6000068)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Bathythermograph data were collected from the KLAMATH within a 1-mile radius of Ocean Weather Station N (3000N 14000W) and in transit. Data were collected by the United States Coast Guard from 11 May 1960 to 07 June 1960. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6000068",
+    "modified": "2013-03-17",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -140.2,
+            29.65
+          ],
+          [
+            -125.333333,
+            29.65
+          ],
+          [
+            -125.333333,
+            47.95
+          ],
+          [
+            -140.2,
+            47.95
+          ],
+          [
+            -140.2,
+            29.65
+          ]
+        ]
+      ]
+    },
+    "temporal": "1960-05-11T00:00:00/1960-06-07T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "SPECIES IDENTIFICATION - DRY WEIGHT, SPECIES IDENTIFICATION - ORGANISM LENGTH, Condition factor, Carbon content of specimen and Nitrogen content of specimen site samples data collected in the South Atlantic Ocean and South Pacific Ocean on the LAURENCE M. GOULD cruises LMG0106 and LMG0205 as part of the Southern Ocean GLOBEC project from 2001-07-29 to 2002-09-09 (NODC Accession 0112563)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NODC Accession 0112563 includes site samples and biological data collected aboard the LAURENCE M. GOULD during cruises LMG0106 and LMG0205 in the South Atlantic Ocean and South Pacific Ocean from 2001-07-29 to 2002-09-09. These data include SPECIES IDENTIFICATION - DRY WEIGHT, SPECIES IDENTIFICATION - ORGANISM LENGTH, Condition factor, Carbon content of specimen and Nitrogen content of specimen. The instruments used to collect these data include net - plankton net. These data were collected by Langdon Quetin and Robin Ross of University of California-Santa Barbara as part of Southern Ocean GLOBEC. The Biological and Chemical Oceanography Data Management Office (BCO-DMO) submitted these data to NODC on 2013-07-25.\n\nThe following is the text of the abstract provided by BCO-DMO:\n\nThe goal of the larval krill studies was to investigate the physiology and ecology of krill larvae associated with the pack ice and the microbial community on which they feed.\nDuring LMG0106 we occupied two 4-5 day ice stations (Robert and Billy) and sampled several other ice floes opportunistically. We conducted 10 instantaneous growth rate experiments, and 4 whole body clearance time experiments to determine gut passage time (decline in pigment content over time). We also sampled larvae at two additional sites for initial body pigment content (whole body fluorescence), and at 4 sites for condition factor. The under-ice algal community was sampled at one site. Length and stage frequency determinations were also determined.\nWe occupied three time-series stations of approximately 1 week each, and in addition opportunistically sampled at times when other activities had priority. Our primary goal during the cruise was to occupy three ice camps or process stations with the intent of thoroughly studying the under-ice environment by SCUBA in conjunction with other projects working topside. (from cruise report LMG0205) (http://www.ccpo.odu.edu/Research/globec/main_cruises02/lmg0205/report_lmg0205.pdf)",
+    "identifier": "gov.noaa.nodc:0112563",
+    "modified": "2013-08-30",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.81833,
+            -68.4817
+          ],
+          [
+            -66.86,
+            -68.4817
+          ],
+          [
+            -66.86,
+            -65.6433
+          ],
+          [
+            -75.81833,
+            -65.6433
+          ],
+          [
+            -75.81833,
+            -68.4817
+          ]
+        ]
+      ]
+    },
+    "temporal": "2001-07-29T00:00:00/2002-09-09T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Global Near Real-Time Temperature and Salinity Profile Data from the GTSPP project from 25 March 2003 to 28 April 2003 (NODC Accession 0001002)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Physical, current, meteorological, and other data were collected from XBT casts, buoys, and other instruments from a World-Wide distribution. Data were collected from 25 March 2003 to 28 April 2003. Data were submitted by the Marine Environmental Data Service (MEDS) in support of the Array for Real-time Geostrophic Oceanography (Argo), the Gulf of Mexico NOAA/NMFS Ship of Opportunity (SOOP), and the Global Temperature-Salinity Pilot Project (GTSPP). Physical parameters include profiles of temperature and salinity. Current parameters include current direction and speed. Meteorological parameters include dry bulb temperature, wind speed, wind direction, relative humidity, and air pressure.",
+    "identifier": "gov.noaa.nodc:0001002",
+    "modified": "2013-03-15",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            15.469,
+            -65.977
+          ],
+          [
+            0.007,
+            -65.977
+          ],
+          [
+            0.007,
+            71.678
+          ],
+          [
+            15.469,
+            71.678
+          ],
+          [
+            15.469,
+            -65.977
+          ]
+        ]
+      ]
+    },
+    "temporal": "2003-03-25T00:00:00/2003-04-28T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-time profile data assembled by Canada Department of Fisheries and Oceans (DFO) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted on 05/01/2012 (NODC Accession 0088995)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Integrated Science Data Management (ISDM) office processes oceanographic profiles reported for the world oceans in near real-time from the Global Telecommunications System (GTS) for the Global Temperature and Salinity Profile Program (GTSPP). These data also support the activities of the Ship-of-Opportunity Programme Implementation Panel (SOOPIP) and the WOCE Upper Ocean Thermal Program (WOCE UOT).",
+    "identifier": "gov.noaa.nodc:0088995",
+    "modified": "2012-05-02",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.15,
+            -77.88
+          ],
+          [
+            -64.352,
+            -77.88
+          ],
+          [
+            -64.352,
+            78.97
+          ],
+          [
+            -59.15,
+            78.97
+          ],
+          [
+            -59.15,
+            -77.88
+          ]
+        ]
+      ]
+    },
+    "temporal": "2012-04-02T00:00:00/2012-04-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature and salinity profiles from CTD casts from the ALBATROSS IV and other platforms as part of the Marine Resources Monitoring, Assessment and Prediction (MARMAP) project from 01 June 1994 to 10 September 1998 (NCEI Accession 9900023)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Temperature and salinity profiles were collected from CTD casts from the ALABATROSS IV and other platforms from 01 June 1994 to 10 September 1998. Data were collected by the National Marine Fisheries Service (NMFS) as part of the Marine Resources Monitoring, Assessment and Prediction (MARMAP) and Global Ocean Ecosystems Dynamic (GLOBEC) projects.",
+    "identifier": "gov.noaa.nodc:9900023",
+    "modified": "2013-03-19",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.21,
+            37.272
+          ],
+          [
+            -63.436,
+            37.272
+          ],
+          [
+            -63.436,
+            44.307
+          ],
+          [
+            -74.21,
+            44.307
+          ],
+          [
+            -74.21,
+            37.272
+          ]
+        ]
+      ]
+    },
+    "temporal": "1994-06-01T00:00:00/1998-09-10T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-time profile data assembled by Canada Department of Fisheries and Oceans (DFO) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted on 2014-07-28 (NODC Accession 0120678)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Integrated Science Data Management (ISDM) office processes oceanographic profiles reported for the world oceans in near real-time from the Global Telecommunications System (GTS) for the Global Temperature and Salinity Profile Program (GTSPP). These data also support the activities of the Ship-of-Opportunity Programme Implementation Panel (SOOPIP) and the WOCE Upper Ocean Thermal Program (WOCE UOT).",
+    "identifier": "gov.noaa.nodc:0120678",
+    "modified": "2014-07-28",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            65.323,
+            -77.76
+          ],
+          [
+            57.76,
+            -77.76
+          ],
+          [
+            57.76,
+            86.521
+          ],
+          [
+            65.323,
+            86.521
+          ],
+          [
+            65.323,
+            -77.76
+          ]
+        ]
+      ]
+    },
+    "temporal": "2014-06-02T00:00:00/2014-07-25T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "National Centers for Environmental Prediction (NCEP) Regional Ocean Forecast System (ROFS) model output from 2000-11 (NODC Accession 0001563)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Regional Ocean Forecast System (ROFS) has been developed jointly by the Ocean Modeling Branch of the National Weather Service's Environmental Modeling Center, the National Ocean Service's Coast Survey Development Lab, Princeton University, and Naval Oceanographic Office (NAVOCEANO). ROFS is based on a hydrodynamic, three-dimensional ocean circulation model (Princeton Ocean Model) which simulates temperature, salinity, surface elevation, and currents for a region off the U.S. East Coast from ~30 to 47N and out to 50W. The model is driven at the ocean surface boundary by heat, moisture, and momentum fluxes provided by NCEP's Eta mesoscale atmospheric forecast model. The ocean model is driven along its open (that is, southern and eastern) boundaries by climatological estimates of temperature, salinity, and transport. The spatial resolution of the model varies from approximately 20km offshore to about 10km nearshore. The coastal boundary corresponds to the location of the 10m isobath. In the vertical, an 18-layer sigma (terrain-following) coordinate system is used with at least half the layers concentrated in the upper 100m. Tidal forcing is included in the model.\n\nThe forecast cycle generates regional ocean forecasts out to 48 hours. Surface forcing is obtained from the 3-hourly surface fields from NCEP's Eta mesoscale atmospheric prediction model. [This abstract was obtained from the ROFS website at http://polar.wwb.noaa.gov/cofs/Description.html]",
+    "identifier": "gov.noaa.nodc:0001563",
+    "modified": "2010-12-20",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81,
+            27
+          ],
+          [
+            -50,
+            27
+          ],
+          [
+            -50,
+            47
+          ],
+          [
+            -81,
+            47
+          ],
+          [
+            -81,
+            27
+          ]
+        ]
+      ]
+    },
+    "temporal": "2000-11-01T00:00:00/2000-11-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "National Centers for Environmental Prediction (NCEP) Regional Ocean Forecast System (ROFS) model output from 2007-02 (NODC Accession 0043275)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Regional Ocean Forecast System (ROFS) has been developed jointly by the Ocean Modeling Branch of the National Weather Service's Environmental Modeling Center, the National Ocean Service's Coast Survey Development Lab, Princeton University, and Naval Oceanographic Office (NAVOCEANO). ROFS is based on a hydrodynamic, three-dimensional ocean circulation model (Princeton Ocean Model) which simulates temperature, salinity, surface elevation, and currents for a region off the U.S. East Coast from ~30 to 47N and out to 50W. The model is driven at the ocean surface boundary by heat, moisture, and momentum fluxes provided by NCEP's Eta mesoscale atmospheric forecast model. The ocean model is driven along its open (that is, southern and eastern) boundaries by climatological estimates of temperature, salinity, and transport. The spatial resolution of the model varies from approximately 20km offshore to about 10km nearshore. The coastal boundary corresponds to the location of the 10m isobath. In the vertical, an 18-layer sigma (terrain-following) coordinate system is used with at least half the layers concentrated in the upper 100m. Tidal forcing is included in the model.\n\nThe forecast cycle generates regional ocean forecasts out to 48 hours. Surface forcing is obtained from the 3-hourly surface fields from NCEP's Eta mesoscale atmospheric prediction model. [This abstract was obtained from the ROFS website at http://polar.wwb.noaa.gov/cofs/Description.html#OM on June 23, 2004.]",
+    "identifier": "gov.noaa.nodc:0043275",
+    "modified": "2011-01-25",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81,
+            27
+          ],
+          [
+            -50,
+            27
+          ],
+          [
+            -50,
+            47
+          ],
+          [
+            -81,
+            47
+          ],
+          [
+            -81,
+            27
+          ]
+        ]
+      ]
+    },
+    "temporal": "2007-02-01T00:00:00/2007-02-28T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from mechanical bathythermograph (MBT) casts from the USS NOTABLE in the Caribbean Sea and North Atlantic Ocean in support of the Fleet Observations of Oceanographic Data (FLOOD) project from 09 January 1962 to 28 April 1962 (NODC Accession 6200656)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "MBT data were collected from the USS NOTABLE in support of the Fleet Observations of Oceanographic Data (FLOOD) project. Data were collected by US Navy; Ships of Opportunity from 09 January 1962 to 28 April 1962. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6200656",
+    "modified": "2010-12-17",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.5,
+            19.3
+          ],
+          [
+            -66.9,
+            19.3
+          ],
+          [
+            -66.9,
+            32.3
+          ],
+          [
+            -78.5,
+            32.3
+          ],
+          [
+            -78.5,
+            19.3
+          ]
+        ]
+      ]
+    },
+    "temporal": "1962-01-09T00:00:00/1962-04-28T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Oceanographic profile temperature data using XBT, collected by the Graduate School of Oceanography, University of Rhode Island during R/V Endeavor cruise EN492 in the North Atlantic Ocean from 2011-04-28 to 2011-05-20 (NODC Accession 0121517)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The dataset consists of 43 XBT casts in the region northeast of Flemish Cap. The XBTs were Lockheed Martin Sippican Deep Blue probes with a nominal depth range of 760 m. The MK21 data acquisition system was used to log the raw data and the standard depth equation was used to determine probe depth. The data were subsequently bin-averaged into 1 m bins. The XBT data were collected during R/V Endeavor cruise EN492 to the region northeast of Flemish Cap in the Northwest Atlantic. The purpose of the cruise was to observe the process of anticyclonic eddy generation and evolution in the so-called Northwest Corner region, where the northward-flowing North Atlantic current turns to flow eastward. During the cruise the upper ocean hydrography, in an approximately 250 km square region centered on the turning region, was observed with a grid of CTD casts to 1000 db spaced approximately 50 km apart. The XBT was deployed at roughly the midpoints of some of the transits between CTD stations and at other locations north of Flemish Cap.",
+    "identifier": "gov.noaa.nodc:0121517",
+    "modified": "2014-09-29",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -47,
+            47
+          ],
+          [
+            -40,
+            47
+          ],
+          [
+            -40,
+            53
+          ],
+          [
+            -47,
+            53
+          ],
+          [
+            -47,
+            47
+          ]
+        ]
+      ]
+    },
+    "temporal": "2011-04-28T00:00:00/2011-05-20T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-Time XBT Data assembled by US NOAA Atlantic Oceanographic Meteorological Laboratory (AOML) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted 07/21/2008 - 07/27/2008 (NODC Accession 0043696)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "These data represent data collected from the Shipboard Environmental (data) Acquisition System (SEAS), a program developed by National Oceanic and Atmospheric Administration (NOAA) to provide accurate meteorological and oceanographic data in real time from ships at sea through the use of satellite data transmission techniques. The system transmits data through either the Geostationary Operational Environmental Satellite (GOES) or the International Maritime Satellite Organization (INMARSAT C) satellites to NOAA for use in weather, climatological and ocean models. NOAA is actively participating in an international effort to increase the number of subsurface temperature observations in support of global oceanographic and climate studies. NOAA's Expendable Bathythermograph (XBT) program, SEAS, currently supports about 80 Voluntary Observing Ships (VOS). SEAS XBT data are archived by the National Oceanographic Data Center (NODC) on a weekly basis.",
+    "identifier": "gov.noaa.nodc:0043696",
+    "modified": "2011-01-07",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            165.429,
+            -20.996
+          ],
+          [
+            55.919,
+            -20.996
+          ],
+          [
+            55.919,
+            47.714
+          ],
+          [
+            165.429,
+            47.714
+          ],
+          [
+            165.429,
+            -20.996
+          ]
+        ]
+      ]
+    },
+    "temporal": "2008-07-21T00:00:00/2008-07-27T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Continuous bottom temperature measurements in strategic areas of the Florida Reef Tract at Snake Creek Bridge, 1989 - 2005 (NODC Accession 0013148)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The purpose of this project is to document bottom seawater temperature in strategic areas of the Florida Reef Tract on a continuing basis and make that information available to management and research user groups. This ongoing project began in 1988. A total of 38 subsurface recording thermographs have been deployed in the Florida Keys National Marine Sanctuary (FKNMS)and at other selected locations on the Florida Reef Tract and associated hydrologic ecosystems. These instruments have been programmed to record at 2 hour intervals and are placed in permanent housings attached to suitable substrate. Data retrieval, servicing and reprogramming for continuous deployment have occurred, on average, annually. Initially, the collected data are made available to FKNMS Managers and others who monitor and assess environmental conditions that influence FKNMS areas of the Florida Reef Tract. An archival copy of these data is maintained and available from the US NODC.",
+    "identifier": "gov.noaa.nodc:0013148",
+    "modified": "2011-01-20",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Point",
+      "coordinates": [
+        -80.58,
+        24.95
+      ]
+    },
+    "temporal": "1989-04-19T00:00:00/2005-04-14T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Current direction, temperature, and salinity data from moored current meter casts in the Gulf of Mexico during the Brine Disposal project, 04 December 1983 - 01 December 1984 (NODC Accession 8500251)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Current direction, temperature, and salinity data were collected using moored current meter casts in the Gulf of Mexico from December 4, 1983 to December 1, 1984. Data were submitted by Texas A&M University as part of the Brine Disposal project. Data were processed by NODC to the NODC standard Current Meter Data (F005) format. Full current meter moorings descriptions are available at http://www.nodc.noaa.gov/General/NODC-Archive/f005.html.\n\nThe F005 format is used for time series measurements of ocean currents obtained using moored current-measuring instruments, principally Aanderaa current meters (manufactured by Aanderaa Instruments Inc.). These data represent the Eulerian method of current measurement, i.e., the meters are deployed at a fixed mooring point and measure flow past the sensor. Position, water depth, and sensor depth are reported for each station. The data record comprises values of current direction and speed at specified date and time. Data values may be subject to\naveraging or filtering and are typically reported at 10-15 minute time intervals. Other environmental parameters may also be reported. These include: water temperature, salinity, conductivity, and transmissivity; wind direction and speed; and dominant wave direction, height, and period. A text field is available for optional comments.",
+    "identifier": "gov.noaa.nodc:8500251",
+    "modified": "2011-03-03",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Point",
+      "coordinates": [
+        -93.5,
+        29.6
+      ]
+    },
+    "temporal": "1983-12-04T00:00:00/1984-12-01T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from mechanical bathythermograph (MBT) casts from the USS ABILITY in the Mediterranean Sea in support of the Fleet Observations of Oceanographic Data (FLOOD) project from 11 March 1966 to 30 June 1966 (NODC Accession 6600720)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "MBT data were collected from the USS ABILITY in support of the Fleet Observations of Oceanographic Data (FLOOD) project. Data were collected by US Navy; Ships of Opportunity from 11 March 1966 to 30 June 1966. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6600720",
+    "modified": "2013-03-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -17.183333,
+            36.6
+          ],
+          [
+            -1.6,
+            36.6
+          ],
+          [
+            -1.6,
+            37.25
+          ],
+          [
+            -17.183333,
+            37.25
+          ],
+          [
+            -17.183333,
+            36.6
+          ]
+        ]
+      ]
+    },
+    "temporal": "1966-03-11T00:00:00/1966-06-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-time profile data assembled by Canada Department of Fisheries and Oceans (DFO) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted on 08/26/2013 (NODC Accession 0112417)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Integrated Science Data Management (ISDM) office processes oceanographic profiles reported for the world oceans in near real-time from the Global Telecommunications System (GTS) for the Global Temperature and Salinity Profile Program (GTSPP). These data also support the activities of the Ship-of-Opportunity Programme Implementation Panel (SOOPIP) and the WOCE Upper Ocean Thermal Program (WOCE UOT).",
+    "identifier": "gov.noaa.nodc:0112417",
+    "modified": "2013-08-26",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.978,
+            -68.43
+          ],
+          [
+            37.817,
+            -68.43
+          ],
+          [
+            37.817,
+            86.074
+          ],
+          [
+            40.978,
+            86.074
+          ],
+          [
+            40.978,
+            -68.43
+          ]
+        ]
+      ]
+    },
+    "temporal": "2013-07-10T00:00:00/2013-08-23T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from MBT casts from the CHAUTAUQUA from Ocean Weather Station V (OWS-V) in the North Pacific Ocean from 26 November 1961 to 23 December 1961 (NCEI Accession 6100341)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Bathythermograph data were collected from the CHAUTAUQUA within a 1-mile radius of Ocean Weather Station V (3400N 16400E) and in transit. Data were collected by the United States Coast Guard from 26 November 1961 to 23 December 1961. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6100341",
+    "modified": "2013-03-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            161.933333,
+            22.3
+          ],
+          [
+            -160.8,
+            22.3
+          ],
+          [
+            -160.8,
+            34.833333
+          ],
+          [
+            161.933333,
+            34.833333
+          ],
+          [
+            161.933333,
+            22.3
+          ]
+        ]
+      ]
+    },
+    "temporal": "1961-11-26T00:00:00/1961-12-23T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "AT011L15: WHOI cruise 011 leg 15 aboard the R/V Atlantis from 2004-07-15 - 2004-08-23 (NODC Accession 0055223)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Atlantis - Cruise 011 Leg 15.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0055223",
+    "modified": "2011-01-14",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -146.774693,
+            46.188988
+          ],
+          [
+            -122.312997,
+            46.188988
+          ],
+          [
+            -122.312997,
+            56.708758
+          ],
+          [
+            -146.774693,
+            56.708758
+          ],
+          [
+            -146.774693,
+            46.188988
+          ]
+        ]
+      ]
+    },
+    "temporal": "2004-07-15T00:00:00/2004-08-23T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Physical and underway data collected aboard the OCEANUS during cruise OC459-02 in the North Atlantic Ocean from 2010-04-06 to 2010-04-17 (NODC Accession 0104322)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NODC accession 0104322 includes physical and underway data collected aboard the OCEANUS during cruise OC459-02 in the North Atlantic Ocean from 2010-04-06 to 2010-04-17. These data include CURRENT SPEED - EAST/WEST COMPONENT (U) and CURRENT SPEED - NORTH/SOUTH COMPONENT (V). The instruments used to collect these data include ADCP and GPS. These data were collected by Christopher Meinen of US DOC; NOAA; Office of Oceanic and Atmospheric Research; Atlantic Oceanographic and Meteorological Laboratory, and by Woods Hole Oceanographic Institution as part of Western Boundary Time Series. The Lamont-Doherty Earth Observatory (LDEO) submitted these data to NODC as part of the NSF sponsored Rolling Deck to Repository (R2R) program. The ADCP data represent the raw and automated processed data set. Post processed quality assessed data are not available in this accession.",
+    "identifier": "gov.noaa.nodc:0104322",
+    "modified": "2013-03-28",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.082944,
+            25.765563
+          ],
+          [
+            -69.489363,
+            25.765563
+          ],
+          [
+            -69.489363,
+            27.038137
+          ],
+          [
+            -80.082944,
+            27.038137
+          ],
+          [
+            -80.082944,
+            25.765563
+          ]
+        ]
+      ]
+    },
+    "temporal": "2010-04-06T00:00:00/2010-04-17T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Digital collection of photographic surveys of beach profiles and animals taken as part of the Beach Watch program at Dillon Beach (segment 1-10), California from 1996-11-04 to 1997-11-27 (NODC Accession 0071546)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "NOAA's Gulf of the Farallones National Marine Sanctuary (GFNMS) Beach Watch Program, administered by the Farallones Marine Sanctuary Association (FMSA), is a long-term monitoring program operating within GFNMS and NOAA's Monterey Bay National Marine Sanctuary along the California coast. An objective of the program is to develop baseline information on the organisms inhabiting the sanctuaries and on the physical characteristics of the sanctuaries. To achieve this objective, Beach Watch volunteers have taken photographic slides of animals (both alive and dead) and beach profiles during surveys of over fifty sanctuary beaches every two to four weeks since 1993.\n\nAs part of a \"data rescue\" effort, GFNMS, FMSA, and NOAA's National Oceanographic Data Center and Climate Database Modernization Program have sponsored a project to scan Beach Watch's photographic slides and create high-resolution TIFF and Web-accessible JPEG images for the public. This collection is part of the project, which Jan Roletto of GFNMS coordinated for FMSA, and it contains images from surveys of Dillon Beach (segment 1-10), California from 1996-11-04 to 1997-11-27.",
+    "identifier": "gov.noaa.nodc:0071546",
+    "modified": "2011-03-21",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.969001,
+            38.231938
+          ],
+          [
+            -122.968635,
+            38.231938
+          ],
+          [
+            -122.968635,
+            38.253748
+          ],
+          [
+            -122.969001,
+            38.253748
+          ],
+          [
+            -122.969001,
+            38.231938
+          ]
+        ]
+      ]
+    },
+    "temporal": "1996-11-04T00:00:00/1997-11-27T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature and salinity profile data from globally distributed Argo profiling floats for the week of 2006-05-28 for the Global Argo Data Repository, date ranged from 2005-01-22 to 2006-06-03 (NODC Accession 0002705)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The U.S. National Oceanographic Data Center (NODC) operates the Global Argo Data Repository (GADR) as the long-term archive for the International Global Argo Project (for additional information about Argo, see http://www.argo.ucsd.edu/ (last accessed June 2006)). Argo data archived by the US NODC on a weekly basis starting the second quarter of FY 2003, may include real-time and/or delayed-mode profiles of ocean temperature and salinity, as well as related conductivity and/or pressure measurements (if any), collected by Argo profiling floats.",
+    "identifier": "gov.noaa.nodc:0002705",
+    "modified": "2010-12-20",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -179.99899,
+            -64.972
+          ],
+          [
+            180,
+            -64.972
+          ],
+          [
+            180,
+            89.746
+          ],
+          [
+            -179.99899,
+            89.746
+          ],
+          [
+            -179.99899,
+            -64.972
+          ]
+        ]
+      ]
+    },
+    "temporal": "2005-01-22T00:00:00/2006-06-03T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "AT003L15: WHOI cruise 003 leg 15 aboard the R/V Atlantis from 1998-04-01 - 1998-04-07 (NODC Accession 0071271)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Atlantis - Cruise 003 Leg 15.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0071271",
+    "modified": "2011-03-12",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -117.627908,
+            32.629652
+          ],
+          [
+            -117.16062,
+            32.629652
+          ],
+          [
+            -117.16062,
+            32.988483
+          ],
+          [
+            -117.627908,
+            32.988483
+          ],
+          [
+            -117.627908,
+            32.629652
+          ]
+        ]
+      ]
+    },
+    "temporal": "1998-04-01T00:00:00/1998-04-07T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from expendable bathythermograph (XBT) casts from the USCGC BIBB in the North Atlantic Ocean in support of the Integrated Global Ocean Services System (IGOSS) from 30 September 1976 to 11 October 1976 (NODC Accession 7601720)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "XBT data were collected from the USCGC BIBB in support of the Integrated Global Ocean Services System (IGOSS). Data were collected by the US Coast Guard from 30 September 1976 to 11 October 1976. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using expendable bathythermograph (XBT) instruments. Standard XBTs can obtain profiles at depths of about 450 or 760 m. With special instruments, measurements can be obtained to 1830 m. Cruise information, position, date, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Unlike the MBT data file, in which temperature values are recorded at uniform 5m intervals, the XBT Data File contains temperature values at non-uniform depths. These depths are at a minimum number of points (\"inflection points\") required to record the temperature curve to an acceptable degree of accuracy. On output, however, the user may request temperature values either at inflection points or interpolated to uniform depth increments.",
+    "identifier": "gov.noaa.nodc:7601720",
+    "modified": "2010-12-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70,
+            39
+          ],
+          [
+            -63.8,
+            39
+          ],
+          [
+            -63.8,
+            44
+          ],
+          [
+            -70,
+            44
+          ],
+          [
+            -70,
+            39
+          ]
+        ]
+      ]
+    },
+    "temporal": "1976-09-30T00:00:00/1976-10-11T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "OC357L01: WHOI cruise 357 leg 01 aboard the R/V Oceanus from 2000-05-15 - 2000-05-16 (NODC Accession 0064322)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Oceanus - Cruise 357 Leg 01.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0064322",
+    "modified": "2011-01-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.973663,
+            41.429938
+          ],
+          [
+            -70.668525,
+            41.429938
+          ],
+          [
+            -70.668525,
+            41.620112
+          ],
+          [
+            -70.973663,
+            41.620112
+          ],
+          [
+            -70.973663,
+            41.429938
+          ]
+        ]
+      ]
+    },
+    "temporal": "2000-05-15T00:00:00/2000-05-16T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "KN172L07: WHOI cruise 172 leg 07 aboard the R/V Knorr from 2003-04-13 - 2003-04-25 (NODC Accession 0054772)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Knorr - Cruise 172 Leg 07.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0054772",
+    "modified": "2011-01-13",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            28.918684,
+            40.86372
+          ],
+          [
+            31.014991,
+            40.86372
+          ],
+          [
+            31.014991,
+            42.523128
+          ],
+          [
+            28.918684,
+            42.523128
+          ],
+          [
+            28.918684,
+            40.86372
+          ]
+        ]
+      ]
+    },
+    "temporal": "2003-04-13T00:00:00/2003-04-25T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Chemical and physical oceanographic profile data collected from CTD casts aboard the JACK FITZ in the Gulf of Mexico from 2010-05-22 to 2010-05-31 in response to the Deepwater Horizon oil spill event (NODC Accession 0069073)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Chemical and physical oceanographic profile data were collected aboard the JACK FITZ in the Gulf of Mexico from 2010-05-22 to 2010-05-31 in response to the Deepwater Horizon oil spill event on April 20, 2010, by the Subsurface Monitoring Unit (SMU), which consists of multiple government and corporate agencies. These data include conductivity, dissolved oxygen, fluorescence, hydrostatic pressure, salinity, sound velocity, temperature and water density. The instruments used to collect these data were CTD, fluorometer and oxygen meter. These data have undergone quality assurance and control procedures to validate their scientific integrity at the National Coastal Data Development Center. (NODC Accession 0069073)",
+    "identifier": "gov.noaa.nodc:0069073",
+    "modified": "2012-03-26",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -88.4425,
+            28.708167
+          ],
+          [
+            -88.357167,
+            28.708167
+          ],
+          [
+            -88.357167,
+            28.8755
+          ],
+          [
+            -88.4425,
+            28.8755
+          ],
+          [
+            -88.4425,
+            28.708167
+          ]
+        ]
+      ]
+    },
+    "temporal": "2010-05-22T00:00:00/2010-05-31T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "OC427L01: WHOI cruise 427 leg 01 aboard the R/V Oceanus from 2006-07-29 - 2006-08-29 (NODC Accession 0050797)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Post-cruise download of raw data from shipboard computer(s) as furnished by the Woods Hole Oceanographic Institution Shipboard Scientific Support Group and archived by the Marine Biological Laboratory Woods Hole Oceanographic Institution Library for the R/V Oceanus - Cruise 427 Leg 01.\n\nThese data are part of a collection of ocean observation data from Woods Hole Oceanographic Institution ships OCEANUS (call sign WXAQ; built 1975.00; IMO 7603617), KNORR (call sign KCEJ; built 1970.00; IMO 7738618), and the ATLANTIS (call sign KAQP; built 1997.03; IMO 9105798). The data sets are the downloads of the shipboard computers after an individual cruise. As such, they contain basic raw and processed physical and meteorological data from the cruise. A data set may include XBT, CTD, and XCTD profiles, underway thermosalinograph and atmospheric measurements, gravity and magnetic field measurements, current measurements from ADCP, and still photographs from the Alvin submersible (Atlantis cruises only). Other data types (ROV, nutrients measured from bottle samples, etc.) and photographs documenting the cruise may be included.",
+    "identifier": "gov.noaa.nodc:0050797",
+    "modified": "2011-01-09",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.784183,
+            38.848617
+          ],
+          [
+            -70.669033,
+            38.848617
+          ],
+          [
+            -70.669033,
+            41.5235
+          ],
+          [
+            -73.784183,
+            41.5235
+          ],
+          [
+            -73.784183,
+            38.848617
+          ]
+        ]
+      ]
+    },
+    "temporal": "2006-07-29T00:00:00/2006-08-29T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from MBT casts from the YAKUTAT from Ocean Weather Station C (OWS-C) in the North Atlantic Ocean from 18 January 1962 to 13 February 1962 (NCEI Accession 6200504)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Bathythermograph data were collected from the YAKUTAT within a 1-mile radius of Ocean Weather Station C (5245N 0350W) and in transit. Data were collected by the United States Coast Guard from 18 January 1962 to 13 February 1962. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6200504",
+    "modified": "2013-03-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.216667,
+            45.833333
+          ],
+          [
+            -35.5,
+            45.833333
+          ],
+          [
+            -35.5,
+            52.85
+          ],
+          [
+            -57.216667,
+            52.85
+          ],
+          [
+            -57.216667,
+            45.833333
+          ]
+        ]
+      ]
+    },
+    "temporal": "1962-01-18T00:00:00/1962-02-13T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-Time XBT Data assembled by US NOAA Atlantic Oceanographic Meteorological Laboratory (AOML) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted 08/03/2009 - 08/09/2009 (NODC Accession 0056404)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "These data represent data collected from the Shipboard Environmental (data) Acquisition System (SEAS), a program developed by National Oceanic and Atmospheric Administration (NOAA) to provide accurate meteorological and oceanographic data in real time from ships at sea through the use of satellite data transmission techniques. The system transmits data through either the Geostationary Operational Environmental Satellite (GOES) or the International Maritime Satellite Organization (INMARSAT C) satellites to NOAA for use in weather, climatological and ocean models. NOAA is actively participating in an international effort to increase the number of subsurface temperature observations in support of global oceanographic and climate studies. NOAA's Expendable Bathythermograph (XBT) program, SEAS, currently supports about 80 Voluntary Observing Ships (VOS). SEAS XBT data are archived by the National Oceanographic Data Center (NODC) on a weekly basis.",
+    "identifier": "gov.noaa.nodc:0056404",
+    "modified": "2011-01-14",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            135.053,
+            -24.232
+          ],
+          [
+            4.569,
+            -24.232
+          ],
+          [
+            4.569,
+            46.343
+          ],
+          [
+            135.053,
+            46.343
+          ],
+          [
+            135.053,
+            -24.232
+          ]
+        ]
+      ]
+    },
+    "temporal": "2009-08-03T00:00:00/2009-08-09T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "NOAA Integrated Ocean and Coastal Mapping (IOCM) orthorectified mosaic image tiles, Pensacola Bay, FL - FL0703 - Phase II - Pensacola Bay, 2010 (NODC Accession 0074383)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "This data set contains 2.5km by 2.5km digital orthophotography mosaics. The digital orthophotos in this series have a nominal ground resolution of 1 meter. The digital orthophoto mosaics are three band, 8-bit GeoTIFFs with pyramids and are color balanced to be uniform while still maintaining as much of the original color and appearance as practical. The source imagery was flown on February 6-7, 2010 with a WILD camera with a focal length of 153.28mm. The film was captured by NOAA at a negative scale of 1 inch = 2,500 feet or a nominal scale of 1 to 30,000. Aerotriangulation was performed in BINGO as full bundle block adjustments. The project area extends from Big Lagoon to Navaree Beach and includes Pensacola Bay, Escambia Bay, and East Bay; as well as portions of Santa Rosa Sound, and Santa Rosa Island and various small bays and tributaries to the bays.\n\nThese ortho-rectified mosaic tiles are an ancillary product of NOAA's Coastal Mapping Program (CMP), created through a wider Integrated Ocean and Coastal Mapping initiative to increase support for multiple uses of the data.",
+    "identifier": "gov.noaa.nodc:0074383",
+    "modified": "2011-11-08",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -87.4943411,
+            30.2582981
+          ],
+          [
+            -86.7658356,
+            30.2582981
+          ],
+          [
+            -86.7658356,
+            30.71032
+          ],
+          [
+            -87.4943411,
+            30.71032
+          ],
+          [
+            -87.4943411,
+            30.2582981
+          ]
+        ]
+      ]
+    },
+    "temporal": "2010-02-06T00:00:00/2010-02-07T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Real-time profile data assembled by Canada Department of Fisheries and Oceans (DFO) for the Global Temperature-Salinity Profile Program (GTSPP) and submitted on 01/24/2012 (NODC Accession 0084514)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The Integrated Science Data Management (ISDM) office processes oceanographic profiles reported for the world oceans in near real-time from the Global Telecommunications System (GTS) for the Global Temperature and Salinity Profile Program (GTSPP). These data also support the activities of the Ship-of-Opportunity Programme Implementation Panel (SOOPIP) and the WOCE Upper Ocean Thermal Program (WOCE UOT).",
+    "identifier": "gov.noaa.nodc:0084514",
+    "modified": "2012-01-24",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            18.516,
+            -65.553
+          ],
+          [
+            13.868,
+            -65.553
+          ],
+          [
+            13.868,
+            84.126
+          ],
+          [
+            18.516,
+            84.126
+          ],
+          [
+            18.516,
+            -65.553
+          ]
+        ]
+      ]
+    },
+    "temporal": "2011-09-29T00:00:00/2012-01-23T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Reef fish survey data from Fagatele Bay, American Samoa during November of 2007 (NODC Accession 0068717)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Fish surveys were conducted in November 2007 using visual census techniques at Fagatele Bay under the guidance of Dr. Alison Green, the Nature Conservancy. This data set was collected at Transect 2, Fagatele Bay, in collaboration with surveys of NODC Accession 0066319, which is composed of coral and benthic surveys by Dr. Douglas Fenner and Dr. Charles Birkeland. Set 0066319 includes other locations on Tutuila, though this fish set is only from Fagatele Bay, and due to conditions, was restricted to Transect 2, at depths of 3, 6, 9, 12, and 18m.",
+    "identifier": "gov.noaa.nodc:0068717",
+    "modified": "2010-12-10",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -170.7638,
+            -14.3657
+          ],
+          [
+            -170.7626,
+            -14.3657
+          ],
+          [
+            -170.7626,
+            -14.3631
+          ],
+          [
+            -170.7638,
+            -14.3631
+          ],
+          [
+            -170.7638,
+            -14.3657
+          ]
+        ]
+      ]
+    },
+    "temporal": "2007-11-01T00:00:00/2007-11-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Line W Hydrography including pressure, temperature, salinity, dissolved oxygen, and dissolved chlorofluorocarbons from bottle and CTD casts from the R/V OCEANUS in the Northwest Atlantic from April 26th, 2005 to May 3rd, 2005 (NODC Accession 0063576)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "This dataset represents one of a series of hydrographic sections conducted along Line W from the continental shelf south of New England toward Bermuda. A total of 22 full depth casts consisting of CTD (conductivity, temperature, pressure and oxygen), LADCP (lowered acoustic Doppler current profiler),and rosette water samples were collected between 04/26/2005 and 05/03/2005. Salinity and dissolved oxygen were analyzed from water samples on board the ship and used to calibrate the CTD sensors. Water samples were also analyzed for transient tracers (CFCs 11, 12, 113).",
+    "identifier": "gov.noaa.nodc:0063576",
+    "modified": "2011-01-19",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.1982,
+            35.6878
+          ],
+          [
+            -67.1605,
+            35.6878
+          ],
+          [
+            -67.1605,
+            40.2825
+          ],
+          [
+            -70.1982,
+            40.2825
+          ],
+          [
+            -70.1982,
+            35.6878
+          ]
+        ]
+      ]
+    },
+    "temporal": "2005-04-26T00:00:00/2005-05-03T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature and salinity profile data from globally distributed Argo profiling floats for the month of December 2005 for the Global Argo Data Repository, 1996-01-05 to 2005-12-31 (NODC Accession 0002485)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The U.S. National Oceanographic Data Center (NODC) operates the Global Argo Data Repository (GADR) as the long-term archive for the International Global Argo Project (for additional information about Argo, see http://www.argo.ucsd.edu/ (last accessed January 2006)). Argo data archived by the US NODC on a weekly basis starting the second quarter of FY 2003, may include real-time and/or delayed-mode profiles of ocean temperature and salinity, as well as related conductivity and/or pressure measurements (if any), collected by Argo profiling floats.",
+    "identifier": "gov.noaa.nodc:0002485",
+    "modified": "2010-12-17",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -179.998,
+            -72.811
+          ],
+          [
+            179.998,
+            -72.811
+          ],
+          [
+            179.998,
+            79.8
+          ],
+          [
+            -179.998,
+            79.8
+          ],
+          [
+            -179.998,
+            -72.811
+          ]
+        ]
+      ]
+    },
+    "temporal": "1996-01-05T00:00:00/2005-12-31T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profiles from mechanical bathythermograph (MBT) casts from the USS LOYALTY in the South China Sea in support of the Fleet Observations of Oceanographic Data (FLOOD) project from 09 May 1966 to 29 May 1966 (NODC Accession 6600779)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "MBT data were collected from the USS LOYALTY in support of the Fleet Observations of Oceanographic Data (FLOOD) project. Data were collected in the South China Sea by US Navy; Ships of Opportunity from 09 May 1966 to 29 May 1966. The platform was equipped and staffed to observe weather and sea conditions. Data were processed by NODC to the NODC standard Universal Bathythermograph Output (UBT) format. Full format description is available from NODC at www.nodc.noaa.gov/General/NODC-Archive/bt.html.\n\nThe UBT file format is used for temperature-depth profile data obtained using the mechanical bathythermograph (MBT) instrument. The maximum depth of MBT observations is approximately 285 m. Therefore, MBT data are useful only in studying the thermal structure of the upper layers of the ocean. Cruise information, date, position, and time are reported for each observation. The data record comprises pairs of temperature-depth values. Temperature data in this file are recorded at uniform 5 m depth intervals.",
+    "identifier": "gov.noaa.nodc:6600779",
+    "modified": "2013-03-18",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            105.766667,
+            8.7
+          ],
+          [
+            119.833333,
+            8.7
+          ],
+          [
+            119.833333,
+            14.65
+          ],
+          [
+            105.766667,
+            14.65
+          ],
+          [
+            105.766667,
+            8.7
+          ]
+        ]
+      ]
+    },
+    "temporal": "1966-05-09T00:00:00/1966-05-29T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Salinity and temperature data collected by bottle from multiple cruises from 8/9/1926 - 11/02/1989 (NODC Accession 0000048)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Temperature profile data were collected using bottle casts from PERSEY in a world wide distribution. Data were collected from 09 August 1926 to 02 November 1989. Data were submitted and collected by Hydrometeorology Service of the Russian Navy (GSVMF) with support from Data Archaeology / Rescue.",
+    "identifier": "gov.noaa.nodc:0000048",
+    "modified": "2013-03-13",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.7,
+            -68.516667
+          ],
+          [
+            -100.233333,
+            -68.516667
+          ],
+          [
+            -100.233333,
+            79.216667
+          ],
+          [
+            -80.7,
+            79.216667
+          ],
+          [
+            -80.7,
+            -68.516667
+          ]
+        ]
+      ]
+    },
+    "temporal": "1926-08-09T00:00:00/1989-11-02T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature profile data from the SEA-LAND DEFENDER using bottle, CTD, profiling floats, and XBT casts in a world-wide distribution from 01 January 1994 to 31 December 1994 (NODC Accession 0000390)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Temperature profile data were collected from the SEA-LAND DEFENDER from January 1, 1994 to December 31, 1994. Data were submitted by Institut Francais De Recherche Pour L'Explitation De La Mer - Brest as part of the Global Temperature - Salinity Pilot Project (GTSPP). Data were collected using bottle, CTD, profiling floats, and XBT casts in a world-wide distribution.",
+    "identifier": "gov.noaa.nodc:0000390",
+    "modified": "2013-03-16",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.27,
+            -61.79
+          ],
+          [
+            7.3,
+            -61.79
+          ],
+          [
+            7.3,
+            58.05
+          ],
+          [
+            34.27,
+            58.05
+          ],
+          [
+            34.27,
+            -61.79
+          ]
+        ]
+      ]
+    },
+    "temporal": "1994-01-01T00:00:00/1994-12-31T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Output fields from the NOAA WAVEWATCH IIIÂ® wave model monthly hindcasts for 2007-06 (NODC Accession 0089836)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The NOAA WAVEWATCH IIIÂ® hindcast dataset comprises output fields from the monthly WAVEWATCH IIIÂ® hindcast model runs conducted at the National Centers for Environmental Prediction. Each model run produces a collection of files containing gridded fields comprised of input and mean wave parameters such as the significant wave height, directions, frequencies etc. Once per month, a wave simulation is carried out using restart files from the previous month and forced by hindcast wind products for the entire month. The resulting output data are transferred to NODC on a monthly basis. NODC assembles the series of files into monthly accessions to facilitate archival retention and public access. The fields are encoded in the standard GRIdded Binary version 2 (GRIB2) file format. Wave spectral data summaries are included, as well as detailed spectra at selected locations, in tabular text format. Nine different sets of output fields, corresponding to nine different grids used in the numerical simulations, are included. These include a global grid, as well as regional and coastal grids covering much of the North Atlantic and North Pacific oceans.",
+    "identifier": "gov.noaa.nodc:0089836",
+    "modified": "2013-03-12",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -77.5
+          ],
+          [
+            180,
+            -77.5
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            -180,
+            -77.5
+          ]
+        ]
+      ]
+    },
+    "temporal": "2007-06-01T00:00:00/2007-06-30T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Nutrients and other data from bottle, MBT, XBT, and CTD casts in the North Atlantic and North Pacific Ocean from 03 January 1972 to 16 June 1996 (NCEI Accession 0000751)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "Nutrients and other data were collected using bottle, MBT, XBT, and CTD casts in the North Atlantic and North Pacific Ocean from 03 January 1972 to 12 June 1996. Data were submitted by Marine Environmental Data Service. Nutrients data includes dissolved oxygen, nitrite, nitrate, phosphate, and silicate.",
+    "identifier": "gov.noaa.nodc:0000751",
+    "modified": "2013-03-16",
+    "publisher_type": "org:Organization",
+    "publisher_name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -172.118,
+            47.102
+          ],
+          [
+            -58.2505,
+            47.102
+          ],
+          [
+            -58.2505,
+            67.0657
+          ],
+          [
+            -172.118,
+            67.0657
+          ],
+          [
+            -172.118,
+            47.102
+          ]
+        ]
+      ]
+    },
+    "temporal": "1972-01-03T00:00:00/1996-06-12T00:00:00"
+  },
+  {
+    "type": "dcat:Dataset",
+    "title": "Temperature and salinity profile data from globally distributed Argo profiling floats for the week of 2004-07-04 for the Global Argo Data Repository, date ranged from 2000-07-13 to 2004-07-10 (NODC Accession 0001621)",
+    "accesslevel": "public",
+    "accrualperiodicity": "irregular",
+    "contactpoint_type": "vcard:Contact",
+    "contactpoint_fn": "US National Oceanographic Data Center",
+    "contactpoint_hasemail": "mailto:NODC.Services@noaa.gov",
+    "description": "The U.S. National Oceanographic Data Center (NODC) operates the Global Argo Data Repository (GADR) as the long-term archive for the International Global Argo Project (for additional information about Argo, see http://www.argo.ucsd.edu/ (last accessed July 2004)). Argo data archived by the US NODC on a weekly basis starting the second quarter of FY 2003, may include real-time and/or delayed-mode profiles of ocean temperature and salinity, as well as related conductivity and/or pressure measurements (if any), collected by Argo profiling floats.",
+    "identifier": "gov.noaa.nodc:0001621",
+    "modified": "2010-12-20",
+    "publisher_type": "org:Organization",
+    "publisher_name": "US National Oceanographic Data Center (Point of Contact)",
+    "spatial": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -179.927,
+            -60.997
+          ],
+          [
+            179.74899,
+            -60.997
+          ],
+          [
+            179.74899,
+            68.865
+          ],
+          [
+            -179.927,
+            68.865
+          ],
+          [
+            -179.927,
+            -60.997
+          ]
+        ]
+      ]
+    },
+    "temporal": "2000-07-13T00:00:00/2004-07-10T00:00:00"
+  }
+]
