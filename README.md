@@ -1,3 +1,3 @@
-# ayko-assignment-task
+# Assignment-task
 
 Thanks
