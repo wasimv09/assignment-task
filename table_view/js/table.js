@@ -1,5 +1,5 @@
 (function(){    
-
+    //fetch all data from json
     function fetchData(){
         fetch('../data/data.json')
         .then(response => {
@@ -11,8 +11,9 @@
         });
     }
     fetchData();        
-    setInterval(() => fetchData(), 10000);
+    //setInterval(() => fetchData(), 50000);
 
+    //Search Filter
     let searchInput = document.getElementById('search-data');
     searchInput.addEventListener('keyup', function(){
         
@@ -29,6 +30,7 @@
         }
     });
 
+    //function for display data
     function displayResults(results) {
         let dataHead = '',
             dataBody = '';
@@ -45,13 +47,13 @@
             dataBody += `<tr>
                             <td>${key + 1}</td>
                             <td>${result.type.split(':')[1]}</td>
-                            <td>${result.title}</td>
+                            <td style="min-width: 350px">${result.title}</td>
                             <td>${result.accesslevel}</td>
                             <td>${result.accrualperiodicity}</td>
                             <td>${result.contactpoint_type.split(':')[1]}</td>
                             <td>${result.contactpoint_fn}</td>
                             <td>${result.contactpoint_hasemail.split(':')[1]}</td>
-                            <td>${result.description}</td>
+                            <td style="min-width: 800px">${result.description}</td>
                             <td>${result.identifier}</td>
                             <td>${result.modified}</td>
                             <td>${result.publisher_type.split(':')[1]}</td>
