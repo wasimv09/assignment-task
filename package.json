@@ -1,0 +1,23 @@
+{
+  "name": "ayko-assignment-task",
+  "version": "1.0.0",
+  "description": "Assingment task for AYKO Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass assets/sass/style.scss assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasimv09/ayko-assignment-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasimv09/ayko-assignment-task/issues"
+  },
+  "homepage": "https://github.com/wasimv09/ayko-assignment-task#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
