@@ -22,3 +22,8 @@ h1 {
 
 #raw-data li .table {
   margin-top: 30px; }
+  #raw-data li .table thead td {
+    font-weight: 600;
+    white-space: nowrap; }
+    #raw-data li .table thead td::first-letter {
+      text-transform: uppercase; }

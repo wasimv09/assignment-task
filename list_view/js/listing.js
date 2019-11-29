@@ -42,9 +42,9 @@
     function displayResults(results, optionValue) {
         let rawData = '';
         results.forEach((result, key) => {
-            var search_tital = eval('result.'+ optionValue);
+            var search_title = eval('result.'+ optionValue);
         
-           rawData += `<li class="list-group-item"><span class="list-badge badge badge-primary">${key + 1}</span> <p>${search_tital}</p>
+           rawData += `<li class="list-group-item"><span class="list-badge badge badge-primary">${key + 1}</span> <p>${search_title}</p>
                     <span class="btn btn-primary btn-detail" type="button" data-toggle="collapse" data-target="#collapse${key}"
                     aria-expanded="false" aria-controls="collapse${key}">View Details</span>`;
                     
@@ -52,7 +52,7 @@
                             <table class="table table-bordered">
                                 <thead class="table-info">
                                     <tr>${Object.keys(results[0]).map(key=>{
-                                            return '<td>'+key+'</td>';
+                                            return '<td>'+key.split('_').join(' ')+'</td>';
                                         }).join('')}
                                     </tr>
                                 </tbody>

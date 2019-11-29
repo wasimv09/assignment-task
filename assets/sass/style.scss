@@ -25,5 +25,14 @@ h1{text-align: center;margin: 40px auto 25px;}
     }
     .table{
         margin-top: 30px;
+        thead{
+            td{
+                font-weight: 600;
+                white-space: nowrap;
+                &::first-letter{
+                    text-transform: uppercase;
+                }
+            }
+        }
     }
 }
